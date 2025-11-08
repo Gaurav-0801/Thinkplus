@@ -10,7 +10,7 @@ const geistMono = Geist_Mono({ subsets: ["latin"] })
 export const metadata = {
   title: "ThinkPlus Education - CAT, IPMAT, CLAT Coaching",
   description: "Premium online coaching for management entrance exams",
-    generator: 'v0.app'
+    generator: 'Gaurav.app'
 }
 
 export default function RootLayout({
